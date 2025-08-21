@@ -1,4 +1,3 @@
-/* starting variables for the site */
 :root {
   --white: #f9faff;
   --platinum: #e3e4e8;
@@ -15,16 +14,23 @@
   --corners-sm: 10px 0;
   --base-font-size: 1rem;
 }
-/* set the box sizing to border-box for layouts */
+
+/* TOGGLE SWITCH LIGHT DARK CODE HERE*/
 html {
   box-sizing: border-box;
   color-scheme: light dark;
+  /* I USED THE HTML SELECTOR PROPERTY W/ 2 COLOR SCHEMES -- L & D */
+  /* ^^ THIS CODE IS ESSENTIAL FOR TOGGLE TO WORK AKA DECLARING THERE WILL BE TWO OPTIONS */
 }
 html:has(#mode-switcher #light:checked) {
   color-scheme: light;
+  /* THIS IS LIGHT MODE & CHECKS TO SEE IF LIGHT IS SELECTED ?!?!?
+  /* "html:has" targets the html element */
 }
 html:has(#mode-switcher #dark:checked) {
   color-scheme: dark;
+  /* THIS IS DARK MODE
+  "html:has" targets the html element */
 }
 *,
 *::before,
@@ -261,6 +267,13 @@ footer {
 }
 .footer-text .social:hover {
   fill: var(--marina);
+}
+.copyright {
+  font-size: calc(var(--base-font-size) * 0.75);
+  color: var(--gray);
+  text-align: center;
+  margin: 3rem 0 0 0;
+  opacity: 0.8;
 }
 @media (min-width: 750px) {
   :root {
