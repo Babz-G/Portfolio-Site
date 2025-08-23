@@ -19,14 +19,18 @@
 html {
   box-sizing: border-box;
   color-scheme: light dark;
-  /* I USED THE HTML SELECTOR PROPERTY W/ 2 COLOR SCHEMES -- L & D */
-  /* ^^ THIS CODE IS ESSENTIAL FOR TOGGLE TO WORK AKA DECLARING THERE WILL BE TWO OPTIONS */
+
+  /* (line 19) USE THE HTML SELECTOR WITH PROPERTY OF COLOR-SCHEME (line 21) -- L & D -- DECLARING THERE WILL BE TWO OPTIONS
+  ^^ THIS CODE IS ESSENTIAL FOR TOGGLE TO WORK ^^ */
 }
 html:has(#mode-switcher #light:checked) {
   color-scheme: light;
-  /* THIS IS LIGHT MODE & CHECKS TO SEE IF LIGHT IS SELECTED ?!?!?
-  /* "html:has" targets the html element */
 }
+/* (LINE 26) The "html :has()" is a pseudo-class lets you select an element if it contains (has) specific descendants or siblings. 
+   
+  So in this case: If the HTML has the ID of #mode-switcher &  #light:checked (LINE 26) **AND** the "color-scheme"
+  is light (declared on line 21) then apply these styles, etc. */
+
 html:has(#mode-switcher #dark:checked) {
   color-scheme: dark;
   /* THIS IS DARK MODE
@@ -194,7 +198,7 @@ ul svg {
   overflow: hidden;
   margin: 0 auto;
 }
-/* projects */
+
 main {
   margin-top: 5rem;
   margin-bottom: 3rem;
@@ -236,7 +240,6 @@ main {
   border: 1px solid var(--onyx);
 }
 
-/* footer */
 footer {
   text-align: center;
 }
