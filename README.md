@@ -33,13 +33,9 @@ Personal portfolio website for **Babz Gaynor** Graphic Designer transitioning in
 
 **Light Mode**
 
-![Portfolio Site Light Mode](https://portfolio-site-flame-beta.vercel.app/images/personal%20operating%20mannual.png)
+**Light Mode**
 
 **Projects**
-
-![Cannons Coffee Project](https://portfolio-site-flame-beta.vercel.app/images/cannons%20coffee.png)
-
-![Art Inside Out](https://thumbs2.imgbox.com/ca/ee/MpL6ptAN_t.jpg)
 
 ---
 
