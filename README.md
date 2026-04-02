@@ -5,7 +5,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
-Personal portfolio website for **Babz Gaynor** Graphic Designer transitioning into UX/UI and web development, bridging visual creativity with technical innovation.
+I'm a Graphic Designer transitioning into UX/UI and web development, bridging visual creativity with technical innovation.
 
 🔗 **Live Site:** [portfolio-site-flame-beta.vercel.app](https://portfolio-site-flame-beta.vercel.app/)
 
