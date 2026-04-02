@@ -34,19 +34,15 @@ I'm a Graphic Designer transitioning into UX/UI and web development, bridging vi
 **Light Mode**  
 <img width="1210" height="646" alt="Screenshot 2026-04-01 at 5 13 10 PM" src="https://github.com/user-attachments/assets/cdaec161-d2df-4eae-a463-4d34e509f922" />
 
-
 **Dark Mode**  
 <img width="1190" height="617" alt="Screenshot 2026-04-01 at 5 13 17 PM" src="https://github.com/user-attachments/assets/c311cf6a-de76-47f5-a58b-5403904d2d2c" />
 
 **Projects**  
-<img width="1184" height="600" alt="Screenshot 2026-04-01 at 8 35 11 PM" src="https://github.com/user-attachments/assets/ea0dc14a-fefb-41f1-a690-fe12b28eb1a6" />  
+<img width="1184" height="600" alt="Screenshot 2026-04-01 at 8 35 11 PM" src="https://github.com/user-attachments/assets/ea0dc14a-fefb-41f1-a690-fe12b28eb1a6" />
 
-<img width="1118" height="502" alt="Screenshot 2026-04-01 at 5 13 28 PM" src="https://github.com/user-attachments/assets/eff00a85-e31f-421c-b6e1-4382173b0ddf" />  
+<img width="1118" height="502" alt="Screenshot 2026-04-01 at 5 13 28 PM" src="https://github.com/user-attachments/assets/eff00a85-e31f-421c-b6e1-4382173b0ddf" />
 
 <img width="1170" height="513" alt="Screenshot 2026-04-01 at 8 35 40 PM" src="https://github.com/user-attachments/assets/7baef1b4-8d04-4d18-a6bd-78a9b3ebd198" />
-
-
-
 
 ---
 
@@ -79,10 +75,11 @@ Contributed to the _Art Inside Out_ exhibition, which displayed large-scale repl
 
 ---
 
-## 🤝 Experience
+## 💼 Experience
 
-**Relevant Design Experience**
+**Creative & Technical Experience**
 
+- [AnnieCannons](https://www.anniecannons.org) — Full Stack Dev Intern
 - [Krain Outdoor Advertising](https://www.krainoutdoor.com/) — Lead Graphic Designer
 - [Philadelphia Museum of Art](https://www.philamuseum.org/) — Contract Graphic Designer
 - [Dick Blick Art Materials](https://www.dickblick.com/) — Design Center + Framing Department
