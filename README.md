@@ -1,6 +1,6 @@
 # 🎨 Babz G. — Portfolio Site
 
-> 🚧 **Stay tuned!** This portfolio is actively growing. A fully updated version with current projects, JavaScript, and React is coming soon!
+> 🚧 **Stay tuned!** This portfolio is actively growing. Currently building a fully updated version with current projects, JavaScript, and React.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
